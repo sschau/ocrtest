@@ -1,0 +1,3 @@
+rootProject.name = 'ocrtest'
+
+include ':app'
