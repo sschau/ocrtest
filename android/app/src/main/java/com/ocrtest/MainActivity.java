@@ -1,6 +1,7 @@
 package com.ocrtest;
 
 import com.facebook.react.ReactActivity;
+import com.reactlibrary.RNTesseractOcrPackage;
 
 public class MainActivity extends ReactActivity {
 
